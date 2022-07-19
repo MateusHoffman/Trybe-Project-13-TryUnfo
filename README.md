@@ -1,6 +1,6 @@
 # 💚💚 Trybe-Project-13-TryUnfo 💚💚
 
-Project responsible for presenting my skills with HTML, CSS, JavaScript and React
+Project responsible for presenting my skills with HTML, CSS, JavaScript, Jest and React
 
 ## Access the project:
 ### https://mateushoffman.github.io/Trybe-Project-13-TryUnfo/
