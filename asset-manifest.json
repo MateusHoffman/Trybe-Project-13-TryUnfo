@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/Trybe-Project-13-TryUnfo/static/css/main.073c9b0a.css",
-    "main.js": "/Trybe-Project-13-TryUnfo/static/js/main.ad067d7d.js",
-    "static/js/787.ec704a7a.chunk.js": "/Trybe-Project-13-TryUnfo/static/js/787.ec704a7a.chunk.js",
-    "static/media/logo.svg": "/Trybe-Project-13-TryUnfo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Trybe-Project-13-TryUnfo/static/css/main.51bb8392.css",
+    "main.js": "/Trybe-Project-13-TryUnfo/static/js/main.45b6e207.js",
+    "static/media/Border.png": "/Trybe-Project-13-TryUnfo/static/media/Border.f96e1f33aa0950aed99f.png",
     "index.html": "/Trybe-Project-13-TryUnfo/index.html",
-    "main.073c9b0a.css.map": "/Trybe-Project-13-TryUnfo/static/css/main.073c9b0a.css.map",
-    "main.ad067d7d.js.map": "/Trybe-Project-13-TryUnfo/static/js/main.ad067d7d.js.map",
-    "787.ec704a7a.chunk.js.map": "/Trybe-Project-13-TryUnfo/static/js/787.ec704a7a.chunk.js.map"
+    "main.51bb8392.css.map": "/Trybe-Project-13-TryUnfo/static/css/main.51bb8392.css.map",
+    "main.45b6e207.js.map": "/Trybe-Project-13-TryUnfo/static/js/main.45b6e207.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ad067d7d.js"
+    "static/css/main.51bb8392.css",
+    "static/js/main.45b6e207.js"
   ]
 }
