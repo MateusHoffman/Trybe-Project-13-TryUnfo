@@ -1,9 +1,9 @@
-# 💚💚 Trybe-Project-12-Solar-System 💚💚
+# 💚💚 Trybe-Project-13-TryUnfo 💚💚
 
-Project responsible for presenting my skills with HTML, CSS, JavaScript, Jest and React
+Project responsible for presenting my skills with HTML, CSS, JavaScript and React
 
 ## Access the project:
-### https://mateushoffman.github.io/Trybe-Project-12-Solar-System/
+### https://mateushoffman.github.io/Trybe-Project-13-TryUnfo/
 
 ## NOTA - 100%
 
